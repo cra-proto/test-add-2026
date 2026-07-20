@@ -1,0 +1,82 @@
+[
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-add-2026/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
+    "destination": "/test-add-2026/en/services/taxes/child-and-family-benefits.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "destination": "/test-add-2026/en/services/taxes/income-tax.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45300-canada-workers-benefit-cwb.html",
+    "destination": "/test-add-2026/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45300-canada-workers-benefit-cwb.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "destination": "/test-add-2026/en/revenue-agency/services/tax/businesses/topics/payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html",
+    "destination": "/test-add-2026/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/business-registration.html",
+    "destination": "/test-add-2026/en/services/taxes/business-registration.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/charities.html",
+    "destination": "/test-add-2026/en/services/taxes/charities.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
+    "destination": "/test-add-2026/en/services/taxes/savings-and-pension-plans.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html",
+    "destination": "/test-add-2026/en/services/taxes/excise-taxes-duties-and-levies.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots.html",
+    "destination": "/test-add-2026/fr/services/impots.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/prestations-pour-enfants-et-familles.html",
+    "destination": "/test-add-2026/fr/services/impots/prestations-pour-enfants-et-familles.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu.html",
+    "destination": "/test-add-2026/fr/services/impots/impot-sur-le-revenu.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-45300-allocation-canadienne-travailleurs-act.html",
+    "destination": "/test-add-2026/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/ligne-45300-allocation-canadienne-travailleurs-act.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html",
+    "destination": "/test-add-2026/fr/agence-revenu/services/impot/entreprises/sujets/retenues-paie.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html",
+    "destination": "/test-add-2026/fr/agence-revenu/services/impot/entreprises/sujets/tps-tvh-entreprises.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/inscription-entreprise.html",
+    "destination": "/test-add-2026/fr/services/impots/inscription-entreprise.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/bienfaisance.html",
+    "destination": "/test-add-2026/fr/services/impots/bienfaisance.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html",
+    "destination": "/test-add-2026/fr/services/impots/regimes-depargne-et-de-pension.html"
+  },
+  {
+    "origin": "https://www.canada.ca/fr/services/impots/taxes-daccise-droits-et-prelevements.html",
+    "destination": "/test-add-2026/fr/services/impots/taxes-daccise-droits-et-prelevements.html"
+  }
+]
